@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/snaximum-web/static/css/main.4411b201.chunk.css",
+    "main.js": "/snaximum-web/static/js/main.029fe300.chunk.js",
+    "runtime-main.js": "/snaximum-web/static/js/runtime-main.c76638f0.js",
+    "static/js/2.c72882cc.chunk.js": "/snaximum-web/static/js/2.c72882cc.chunk.js",
+    "static/js/3.f0ba4a75.chunk.js": "/snaximum-web/static/js/3.f0ba4a75.chunk.js",
+    "index.html": "/snaximum-web/index.html",
+    "static/js/2.c72882cc.chunk.js.LICENSE.txt": "/snaximum-web/static/js/2.c72882cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c76638f0.js",
+    "static/js/2.c72882cc.chunk.js",
+    "static/css/main.4411b201.chunk.css",
+    "static/js/main.029fe300.chunk.js"
+  ]
+}
